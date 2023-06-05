@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+
+form {
+  margin-top: 40px;
+}
+input, button {
+  display: block;
+  color: black;
+  margin-bottom: 8px;
+  width: 50%;
+  padding: 8px;
+  font-size: 18px;
+}
